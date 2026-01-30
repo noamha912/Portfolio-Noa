@@ -42,10 +42,10 @@ Ce portfolio documente les Situations d'Apprentissage et d'Évaluation (SAÉ) su
 
 **Noa Mahier-Allili**
 * Étudiant en BUT Réseaux et Télécommunications - Parcours Cybersécurité
-* Le lien du portfolio : *(Ajoute ton lien ici)*
+* Le lien du portfolio : *(https://noamha912.github.io/Portfolio-Noa/*
 
 ---
-*Dernière mise à jour : Janvier 2026*
+
 
 
 
